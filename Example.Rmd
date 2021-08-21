@@ -2,7 +2,7 @@
 title: "Example"
 author: "Omer Perach"
 date: "8/21/2021"
-output: html_document
+output: github_document
 ---
 
-In delelopment:)
+In development:)
