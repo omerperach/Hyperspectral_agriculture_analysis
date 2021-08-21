@@ -13,7 +13,7 @@ The functions have two arguments:
 The spectra need to be organised as follows:
 When you read it to R, preferably from a csv file. Columns are wavelength and rows are samples, each row have a matching biological feature. 
 The feature need to be a vector with the same number of rows as the spectra.
-**It is ok to leave the column names with "X" sign as R read them, the function removing the""
+**It is ok to leave the column names with "X" sign as R read them, the function is emoving.
 
 Please go to the Rmarkdown file in the repo to see a detailed example. 
 
